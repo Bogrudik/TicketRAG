@@ -1,1 +1,1 @@
-# TicketRAG
+# Banking Support AI
